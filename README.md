@@ -86,12 +86,12 @@ limitation rather than presented as a strong predictive result.
 
 ## Limitations
 
-- Dataset covers 2016-2018 only (missing June-July), limiting generalizability
+- Dataset covers 2016 - 2018 only (missing June - July), limiting generalizability
 - Data is recorded at the vehicle level, not the crash level
 - Findings are specific to NYC and may not generalize to other driving
   environments
 - Key variables were unavailable: road type, weather conditions, posted speed
-  limits, driver age — all plausible omitted variables
+  limits, driver age — possible omitted variables
 - Extreme class imbalance (38 fatalities out of 68,687 observations) limits
   the reliability of any predictive (as opposed to explanatory) model
 
